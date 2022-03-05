@@ -6,9 +6,12 @@ Podaci su generisani koriscenjemo OSM podataka provuceni kroz OSMnx python bibli
 
 svi direktorijumi sadrze:
 
-[ime_grada]_edges.geojson
-[ime_grada]_nodes.geojson
-[ime_grada].gpkg
+- [ime_grada]_edges.geojson
+- [ime_grada]_nodes.geojson
+- [ime_grada].gpkg
+
+Poslednji update
+- **2022-03-05**
 
 # putne mreze gradova (administrativni centri)
 
@@ -68,7 +71,3 @@ svi direktorijumi sadrze:
 ![bor](bor/bor_network.png)
 - Prokuplje
 ![prokuplje](prokuplje/prokuplje_network.png)
-
-
-## Poslednji update
-- 2022-03-05
