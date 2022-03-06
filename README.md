@@ -11,7 +11,9 @@ svi direktorijumi sadrze:
 - [ime_grada].gpkg
 
 Poslednji update
-- **2022-03-05**
+- ~~2022-03-05~~
+- 2022-03-06
+
 
 # putne mreze gradova (administrativni centri)
 
@@ -71,3 +73,35 @@ Poslednji update
 ![bor](bor/bor_network.png)
 - Prokuplje
 ![prokuplje](prokuplje/prokuplje_network.png)
+- Stara Pazova
+![stara pazova](stara-pazova/stara-pazova_network.png)
+- Bačka Palanka
+![backa palanka](backa-palanka/backa-palanka_network.png)
+- Ruma
+![ruma](ruma/ruma_network.png)
+- Paraćin
+![paracin](paracin/paracin_network.png)
+- Aleksinac
+![aleksinac](aleksinac/aleksinac_network.png)
+- Smederevska Palanka
+![smederevska palanka](smederevska-palanka/smederevska-palanka_network.png)
+- Inđija
+![indjija](indjija/indjija_network.png)
+- Aranđelovac
+![arandjelovac](arandjelovac/arandjelovac_network.png)
+- Gornji Milanovac
+![gornji milanovac](gornji-milanovac/gornji-milanovac_network.png)
+- Bujanovac
+![bujanovac](bujanovac/bujanovac_network.png)
+- Prijepolje
+![Prijepolje](prijepolje/prijepolje_network.png)
+- Preševo
+![presevo](presevo/presevo_network.png)
+- Priboj
+![priboj](priboj/priboj_network.png)
+- Bajina Bašta
+![bajina basta](bajina-basta/bajina-basta_network.png)
+- Priština
+![pristina](pristina/pristina_network.png)
+- Prizren
+![prizren](prizren/prizren_network.png)
